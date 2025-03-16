@@ -48,6 +48,7 @@ I'm a passionate Front-end Engineer focused on building excellent user experienc
 
 ## 📫 Contact Me
 - 📧 Email: info@calculatorkey.xyz
+- [Contact](https://cal.com/calculatorkey)
 
 ## ⚡ Fun Facts
 - 🎯 2025 Goal: Deep dive into front-end engineering
